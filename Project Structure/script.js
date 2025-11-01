@@ -51,7 +51,8 @@ return
 }
 
 function exHanoi_1(start, aux, end, n) {
-
+   alert("your function is not complete")
+    return
 }
 
 
